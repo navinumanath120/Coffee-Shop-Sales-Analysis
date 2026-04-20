@@ -62,14 +62,6 @@ The following visualizations were created:
 
 ---
 
-## Project Structure
-
-Coffee-Shop-Sales-Analysis
-│
-├── Coffee_Sales_Dashboard.pbix
-├── dataset.csv
-└── README.md
-
 
 # Author
 Navin Umanath 
