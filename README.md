@@ -66,4 +66,4 @@ The following visualizations were created:
 # Author
 Navin Umanath 
 
-Data Analytics Students
+Data Analytics Student
